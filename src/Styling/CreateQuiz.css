@@ -1,0 +1,28 @@
+.Dropdowns {
+  position: absolute;
+  top: 50%;
+  left: 40%;
+  margin-top: -240px;
+  margin-left: 100px;
+  width: 100px;
+  height: 100px;
+  display: flex;
+  justify-content: center;
+}
+
+.CreateQuizCard {
+  position: absolute;
+  top: 50%;
+  left: 20%;
+  margin-top: -145px;
+  margin-left: -230px;
+  width: 100px;
+  height: 100px;
+}
+.createQuizButton {
+  position: absolute;
+  top: 500%;
+  left: 250%;
+  width: 100px;
+  height: 100px;
+}
